@@ -1,0 +1,5 @@
+{
+  "name": "Default-environment",
+  "jwt_PrivateKey": "123",
+  "db": "mongodb://localhost/vidly-movie"
+}

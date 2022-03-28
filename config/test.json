@@ -1,0 +1,4 @@
+{
+  "jwt_privateKey": "123",
+  "db": "mongodb://localhost/vidly-movie-test"
+}
